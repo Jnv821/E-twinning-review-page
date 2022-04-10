@@ -1,0 +1,22 @@
+body {
+  background:white;
+}
+.container {
+  width: 80%;
+  max-width: 1200px;
+  min-width: 400px;
+  height: 200px;
+  background-image: linear-gradient(
+    90deg, 
+    rgba(36,0,27,1) 0%,
+    rgba(93,9,121,1) 35%,
+    rgba(93,0,255,1) 100%);
+  border-radius: 25px;
+  margin: 0 10%;
+  color: white;
+}
+.container_title{
+  padding: 25;
+  font-family: 'Gill Sans MT','Trebuchet MS', sans-serif;
+  text-align: center;
+}
